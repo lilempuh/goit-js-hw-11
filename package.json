@@ -1,5 +1,5 @@
 {
-  "name": "goit-js-hw-11",
+  "name": "goit-js-hw-10",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://lilempuh.github.io/goit-js-hw-11",
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/lilempuh/goit-js-hw-11.git"
   },
   "keywords": [],
-  "author": "Liliia Kostiurenko <lilempux@gmail.com>",
+  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lilempuh/goit-js-hw-11/issues"
